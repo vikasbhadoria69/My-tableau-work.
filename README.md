@@ -1,1 +1,1 @@
-1. Analyses of Indian 2014 elections using tableau. The dataset is taken from https://data.world/datasets/india
+1. Analyses of Indian 2014 elections using tableau. Here I have done some analyses on Indian elections 2014 using tableau. The graphs and analyses are included in the pdf above. The dataset is taken from https://data.world/datasets/india
